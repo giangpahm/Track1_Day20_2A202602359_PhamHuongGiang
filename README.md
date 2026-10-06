@@ -6,7 +6,6 @@
 - **Mã học viên:** 2A202602359
 - **Dự án:** FixIt Agent — AI hỗ trợ giám sát tuân thủ hợp đồng dịch vụ vệ sinh
 - **Metrics Pack:** [Bản làm việc trong repository](./metrics-pack.md)
-- **Tệp trình bày:** [Day20 Metrics Pack — 8 slides](./Day20_Metrics_Pack_PhamHuongGiang.pptx)
 - **Link tệp trình bày đã cấp quyền xem:** [Google Drive — Day 20 Metrics Pack](https://drive.google.com/file/d/1C-M2yo7Cs5GMXBSspqSpZXbv8Y3QsOeJ/view?usp=sharing)
 
 ## Điều tôi mang về áp dụng cho dự án thật
